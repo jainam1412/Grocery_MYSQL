@@ -21,7 +21,7 @@ Unit: The unit of measurement (e.g., bunch, dozen).
 Relational Database Design
 The dataset is split into the following tables:
 
-Products: Contains details about each product, including the item number, description, quantity on hand, cost, purchase date, and the vendor.
-Vendors: Stores information about product suppliers, including vendor names and addresses.
-Customers: Stores customer references to track sales transactions.
-Sales: Records each sales transaction, linking products, customers, and the sale details.
+-Products: Contains details about each product, including the item number, description, quantity on hand, cost, purchase date, and the vendor.
+-Vendors: Stores information about product suppliers, including vendor names and addresses.
+-Customers: Stores customer references to track sales transactions.
+-Sales: Records each sales transaction, linking products, customers, and the sale details.
